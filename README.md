@@ -111,53 +111,30 @@ This project was created using the following technologies.
  
  ##  Screenshots 
  
-![img-1](https://github.com/berthutapea/mern-movie/assets/111676859/1dd97e27-c9bc-4b9b-b299-470d8eecf3cf)
+![img-1](https://res.cloudinary.com/dup3vhxmo/image/upload/v1720893950/sf-cover_qmkgyb.jpg)
 ---- -
-![img-2](https://github.com/berthutapea/mern-movie/assets/111676859/6741b56c-f3ba-4c8d-ae0b-fe4c418731ca)
+![img-2](https://res.cloudinary.com/dup3vhxmo/image/upload/v1720893937/sf-11_jrh80l.jpg)
 --- - 
-![img-3](https://github.com/berthutapea/mern-movie/assets/111676859/bbf20147-9b9a-4134-b890-410fae96525a)
+![img-3](https://res.cloudinary.com/dup3vhxmo/image/upload/v1720893925/sf10_o2lgmx.jpg)
 --- - 
-![img-4](https://github.com/berthutapea/mern-movie/assets/111676859/36fea0f5-e4cb-4a55-9211-ea0bc5d870f3)
+![img-4](https://res.cloudinary.com/dup3vhxmo/image/upload/v1720893906/sf9_afjjez.jpg)
 --- - 
-![img-5](https://github.com/berthutapea/mern-movie/assets/111676859/c22464fe-addf-4585-8033-19b713b2bf50)
+![img-5](https://res.cloudinary.com/dup3vhxmo/image/upload/v1720893891/sf8_opn22t.jpg)
 --- - 
-![img-6](https://github.com/berthutapea/mern-movie/assets/111676859/462e698e-5a39-470a-b264-ccf93711c06a)
+![img-6](https://res.cloudinary.com/dup3vhxmo/image/upload/v1720893878/sf7_fbsbma.jpg)
 --- - 
-![img-7](https://github.com/berthutapea/mern-movie/assets/111676859/9b4ca1b5-6e07-47cf-a2ad-1a737577e035)
+![img-7](https://res.cloudinary.com/dup3vhxmo/image/upload/v1720893864/sf6_j2mok5.jpg)
 --- - 
-![img-8](https://github.com/berthutapea/mern-movie/assets/111676859/95bdf537-a93e-4e84-9228-12375d1a1b47)
+![img-8](https://res.cloudinary.com/dup3vhxmo/image/upload/v1720893853/sf5_urpjxe.jpg)
 --- - 
-![img-9](https://github.com/berthutapea/mern-movie/assets/111676859/57c7524b-75a3-4c9b-b90b-8b2593cabb41)
+![img-9](https://res.cloudinary.com/dup3vhxmo/image/upload/v1720893864/sf6_j2mok5.jpg)
 --- - 
-![img-10](https://github.com/berthutapea/mern-movie/assets/111676859/1532b9cb-0944-4b47-8898-7273f8ce6082)
+![img-10](https://res.cloudinary.com/dup3vhxmo/image/upload/v1720893824/sf3_igfosv.jpg)
 
 ## Author
-- Portfolio: [berthutapea](https://berthutapea.vercel.app/)
-- Github: [berthutapea](https://github.com/berthutapea)
-- Sponsor: [berthutapea](https://saweria.co/berthutapea)
-- Linkedin: [gilberthutapea](https://www.linkedin.com/in/gilberthutapea/)
-- Email: [berthutapea@gmail.com](mailto:berthutapea@gmail.com)
+- Portfolio: [seemikumari](https://portfolio-website-v2-five.vercel.app/)
+- Github: [seemikumari](https://github.com/Seemikumari)
+- Linkedin: [seemikumari](https://www.linkedin.com/in/seemi-kumari-126479152/)
+- Email: [seemisingh0@gmail.com](mailto:seemisingh0@gmail.com)
 
-## License
 
-MIT License
-
-Copyright (c) 2022 Gilbert Hutapea
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
